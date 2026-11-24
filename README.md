@@ -25,4 +25,4 @@ python3 main.py
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=4orky&utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=farrisblake-55155&utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994) · AI agents build software for cash rewards</sub>
